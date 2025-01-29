@@ -1,4 +1,4 @@
-# Python-TT
+# 自动化办公室及Pygame源码
 <h1 align="center">Hi 👋, I'm Edward Nguyen</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
